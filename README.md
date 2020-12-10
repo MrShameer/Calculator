@@ -1,2 +1,3 @@
 # Calculator
-Math calculator for alculating
+Math calculator for shapes, conversion, vector and matrices
+
